@@ -20,9 +20,7 @@
 
 <h2 align = center>¿Que me caracteriza? 🤷🏽‍♂️</h2>
 
-📌 Lo que me caracteriza es la pasión que le pongo a los proyectos que estoy realizando, cuando me pongo a programar o a estudiar lo disfruto al máximo! Cuando hablo o me preguntan sobre lo que hago se nota la emoción en mi voz. Disfruto bastante el trabajo en equipo, siempre he sido una persona que le gusta trabajar con muchas personas, nunca he sido individualista, pero eso no quiere decir que no pueda desempeñarme al máximo trabajando solo.😊
-
-📌 También, tras mas de 1 año de estar codeando en Java, Node js y Nest js de manera profesional estoy listo para afrontar cualquier reto que me ayude a desarrollarme mucho mas en estas áreas al aplicar toda mi experiencia, conocimientos en un lugar de trabajo que me ayude a seguir aprendiendo, que este lleno de retos que me hagan crecer profesionalmente!!
+📌 Lo que me caracteriza es la pasión que le pongo a los proyectos que estoy realizando, cuando me pongo a programar o a estudiar lo disfruto al máximo. Disfruto bastante el trabajo en equipo, siempre he sido una persona que le gusta trabajar con muchas personas, nunca he sido individualista, pero eso no quiere decir que no pueda desempeñarme al máximo trabajando solo.😊
 
 <h2 align = center>📚 Tecnologías Favoritas: </h2>
 
