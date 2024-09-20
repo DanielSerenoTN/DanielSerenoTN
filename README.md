@@ -37,7 +37,6 @@ Pueden ver un poquito sobre quien soy yo plasmado en codigo en mis repositorios!
 <p align = center>💬 Pregúntame sobre cualquier cosa, estoy feliz de poder ayudarte!</p>
 
 <h2 align = center> Contactame </h2>
-<h3 align = center>+52 7152170992</h3>
 <div align = center>
    <a href="https://wa.me/qr/EMKOS6VK56SPH1"><img width = "100px" height = "100px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c543.png" alt="Profile"></a>
    <a href="https://www.linkedin.com/in/danielserenopd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUiGdt0omTvyPm%2BqQGfl%2FDQ%3D%3D"><img width = "91px" height = "91px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin"></a>
