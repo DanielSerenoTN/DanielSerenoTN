@@ -3,7 +3,7 @@
 </div>
 <h2 align = center >Quién soy? ✋</h2>
 
-📌 Soy un desarrollador Web Full Stack (Amante del anime!😊) con conocimientos en JavaScript, Java y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node js, Nest js, Springboot, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
+📌 Soy un desarrollador Web Full Stack (Amante del anime!😊) con conocimientos en JavaScript, Java, Rust y Python 👨‍💻. me siento muy cómodo desarrollando apps con tecnologías como React, Redux, Node js, Nest js, Springboot, Express y Sequelize. Disfruto bastante el sentarme y ponerme a codear todo lo que veo en mi día a día, me siento poderoso cuando veo algo y me digo a mi mismo,"Estoy seguro que puedo programar eso", en fin mi pasión es programar!😊
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/https://github.com/DanielSerenoPD?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
